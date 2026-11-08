@@ -19821,19 +19821,19 @@ const Ie = {
     fullName: "Grab That Ass",
     chain: "Solana",
     status: "Live",
-    contractAddress: "TBA",
+    contractAddress: "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     pairingToken: {
       label: "Pairing token · BTC",
       name: "Big Titty Coin",
-      address: "TBA",
+      address: "2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
       explorerUrl:
-        "https://solscan.io/token/TBA",
+        "https://solscan.io/token/2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     },
     launchDate: "November 4, 2026 (UTC)",
     buyUrl:
-      "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
+      "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     chartUrl:
-      "https://dexscreener.com/solana/TBA",
+      "https://dexscreener.com/solana/2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     totalSupply: null,
     liquidity: null,
     taxes: null,
