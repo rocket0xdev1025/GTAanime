@@ -19821,25 +19821,25 @@ const Ie = {
     fullName: "Grab That Ass",
     chain: "Solana",
     status: "Live",
-    contractAddress: "8MN3r9YWxnYPCJqZe8W42xRkBPxnCgw7ZkPCeUnZpump",
+    contractAddress: "TBA",
     pairingToken: {
       label: "Pairing token · BTC",
       name: "Big Titty Coin",
-      address: "C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump",
+      address: "TBA",
       explorerUrl:
-        "https://solscan.io/token/C5xph2yL6gMdxmuLGxJBkGpmuDFfyi5fqkBNhvL6pump",
+        "https://solscan.io/token/TBA",
     },
     launchDate: "November 4, 2026 (UTC)",
     buyUrl:
-      "https://pump.fun/coin/8MN3r9YWxnYPCJqZe8W42xRkBPxnCgw7ZkPCeUnZpump",
+      "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=TBA",
     chartUrl:
-      "https://dexscreener.com/solana/H4rQVUMb9vTK4JkSNMzhKjTsXoMHbgifJmvDc4RW8WFq",
+      "https://dexscreener.com/solana/TBA",
     totalSupply: null,
     liquidity: null,
     taxes: null,
     socials: [
-      { id: "x", label: "X / Twitter", url: "https://x.com/GrabThatAssBTC" },
-      { id: "telegram", label: "Telegram", url: null },
+      { id: "x", label: "X / Twitter", url: "https://x.com/grabthatassx" },
+      { id: "telegram", label: "Telegram", url: "https://t.me/grabthatass" },
       { id: "discord", label: "Discord", url: null },
     ],
   },
