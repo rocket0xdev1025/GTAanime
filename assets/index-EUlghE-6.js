@@ -19829,7 +19829,7 @@ const Ie = {
       explorerUrl:
         "https://solscan.io/token/2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     },
-    launchDate: "November 4, 2026 (UTC)",
+    launchDate: "November 8, 2026 (UTC)",
     buyUrl:
       "https://swap.pump.fun/?input=So11111111111111111111111111111111111111112&output=2AMo6XkdPXPNXywbCTvcJE9bxXeF91qPh9f6hjsjpump",
     chartUrl:
